@@ -6,6 +6,6 @@ float y, e=2.7;
 printf("Please enter x; );
 scanf("%d", &x);
 y = pow (e, x);
-printf("Result: %f", y);
+printf("Result: %f", y) / 2;
 getchart ();
 }
